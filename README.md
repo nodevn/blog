@@ -3,9 +3,9 @@ Xây dựng blog kỹ thuật cho cộng đồng Nodejs.vn
 
 **Xin chào các bạn !**
 
-Nhằm mục đích nâng cao hoạt động của cộng đồng [NodeJS Vietnam](https://www.facebook.com/nodejs.vn), các thành viên trong ban quản trị có đề xuất mở thêm một kênh chia sẻ kinh nghiệm và kỹ thuật dưới dạng bài viết Blog cho các thành viên của cộng đồng.
+Nhằm mục đích nâng cao hoạt động của cộng đồng [NodeJS Vietnam](https://www.facebook.com/nodejs.vn), các thành viên trong ban quản trị đề xuất mở thêm một kênh chia sẻ kinh nghiệm và kỹ thuật dưới dạng bài viết Blog cho các thành viên của cộng đồng.
 
-Với mục đích là có thể trợ giúp được các bạn, `newbies`, `developers` hay `tech-lead` đang gặp phải các vấn đề kỹ thuật, các bài toán thực tế. Các bạn có thể tạo các yêu cầu là các [issues](https://github.com/nodevn/blog/issues), để các thành viên có kinh nghiệm của diễn đàn có thể viết thành các checklist, hướng dẫn trực tiếp các vấn đề của bạn.
+Với mục đích là có thể trợ giúp được các bạn là các bạn mới `newbies`, `developers` hay `tech-lead` đang gặp phải các vấn đề kỹ thuật, các bài toán thực tế. Các bạn có thể tạo các yêu cầu là các [issues](https://github.com/nodevn/blog/issues), để các thành viên có kinh nghiệm của diễn đàn có thể viết thành các checklist, hướng dẫn trực tiếp các vấn đề của bạn.
 
 Ngoài ra, chính các bạn cũng có thể sửa đổi, bổ sung các bước thực hiện đầy đủ hơn, tối ưu hơn để giải quyết công việc đó dễ dàng hơn, hiệu quả hơn.
 
